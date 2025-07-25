@@ -12,3 +12,8 @@ A modern full-stack **Task Management System** built with **Laravel 11** (API) a
 git clone https://github.com/markrusselbaral/viptutor.git
 cd viptutor/backend/app-backend && composer install && cp .env.example .env && php artisan key:generate && php artisan migrate --seed
 cd viptutor/frontend/app-frontend && npm install && npm run dev
+
+
+
+user - http://localhost:5173/login
+admin - http://localhost:5173/admin-login
